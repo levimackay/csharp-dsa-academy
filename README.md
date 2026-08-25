@@ -86,4 +86,4 @@ A small local Ollama model will hallucinate C# API details and confidently write
 
 MIT. See [LICENSE](LICENSE).
 
-**Last updated:** 2026-08-24 07:33 PDT
+**Last updated:** 2026-08-25 08:04 PDT
